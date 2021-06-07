@@ -1,0 +1,21 @@
+25-May-21 18:14:16 DEBUG users.py this is file error
+25-May-21 18:16:30 DEBUG users.py this is file error
+25-May-21 18:17:07 INFO users.py user zaz signed in succsessfully
+NoneType: None
+25-May-21 18:20:10 DEBUG main.py something went wrong 
+25-May-21 18:33:12 INFO users.py user zaz signed in succsessfully
+NoneType: None
+25-May-21 18:51:00 INFO users.py user zaz signed in succsessfully
+NoneType: None
+25-May-21 19:18:51 DEBUG main.py something went wrong in sign up
+25-May-21 19:19:03 INFO users.py user sara regestered succsessfully
+NoneType: None
+25-May-21 19:19:41 INFO users.py user sara signed in succsessfully
+NoneType: None
+25-May-21 19:20:06 INFO users.py user sara signed in succsessfully
+NoneType: None
+25-May-21 19:35:50 INFO users.py user sara changed password regessessfully
+25-May-21 19:35:58 INFO users.py user sara signed in succsessfully
+NoneType: None
+25-May-21 19:36:17 INFO users.py user zaz signed in succsessfully
+NoneType: None
